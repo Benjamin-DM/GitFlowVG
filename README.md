@@ -1,2 +1,3 @@
 # GitFlowVG
-Repositorio base para la estructura de ramas en los proyectos de VG
+
+Rama principal para mergear cambios realizados en las ramas feature/be y feature/fe
